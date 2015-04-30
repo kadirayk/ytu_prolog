@@ -8,15 +8,15 @@ Sorgu için odev.pl açıldıktan sonra, ‘basla.’ Yazılarak program çalı�
 ?- basla. </br>
 bos birakmak icin buyuk bir Harf girin </br>
 Ozne girin </br>
-|: mufasa. </br>
+|: 'curiosity rover' </br>
 Nesne girin </br>
-|: X. </br>
+|: araç </br>
 Zaman girin </br>
-|: T. </br>
+|: 'şu anda' </br>
 Mekan girin </br>
-|: orman.  </br>
+|: X.  </br>
 Eylem girin </br>
-|: ölmek. </br>
+|: Y. </br>
 </br>
 
 <b> Örnek çalışma: </b> </br>
